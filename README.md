@@ -4,11 +4,6 @@ This template project uses [express](https://github.com/expressjs/express) as th
 
 The code is based on [this tutorial](https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/) written by [fullstackreact](https://www.fullstackreact.com/).
 
-If you don't have create-react-app, install it first:
-```sh
-npm install -g create-react-app
-```
-
 ## Usage
 ```sh
 git clone https://github.com/DouglasWu/react-app-with-server.git
